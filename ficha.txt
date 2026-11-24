@@ -1,1 +1,2 @@
 Autor: Francisco Pardo
+Objetivo: registrar los cambios con Git y publicarlos en Github
