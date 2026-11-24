@@ -1,2 +1,3 @@
 Autor: Francisco Pardo
 Objetivo: registrar los cambios con Git y publicarlos en Github
+Aprendì a como guardar distintas versiones de mi ficha con Git
